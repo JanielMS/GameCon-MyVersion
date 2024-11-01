@@ -2,6 +2,8 @@
 
 Este é um projeto de frontend baseado em um design de website de jogos, com foco em uma interface moderna e interativa. O projeto exibe um controlador de jogos para realidade virtual (VR), com detalhes sobre suas funcionalidades e produtos.
 
+Veja o site no ar [Clicando aqui](https://gamecon-myversion.netlify.app).
+
 ## Funcionalidades
 
 - Design compacto e funcional
